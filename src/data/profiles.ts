@@ -12,8 +12,8 @@ export const profiles: Profile[] = [
     banner: workBanner,
     description: 'Accounting & Finance | Uni of Bath',
     links: [
+      { label: 'LinkedIn', url: 'https://www.linkedin.com/in/kirill-tiukin/', icon: 'Linkedin' },
       { label: 'CV', url: workCV, icon: 'File' },
-      { label: 'GitHub', url: 'https://github.com/kirill-tiukin', icon: 'Github' },
       { label: 'Email', url: 'mailto:tiukinwork@gmail.com', icon: 'Mail' },
       { label: 'Book a Meeting', url: 'https://calendly.com/tiukinwork', icon: 'Calendar' },
     ],
